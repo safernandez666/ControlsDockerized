@@ -17,7 +17,7 @@ https://github.com/safernandez666/ControlsDockerized.git
 ```
 _Configure the LDAP Server in login.php_
 
-![Config login.php](login.png)
+![Config login.php](https://github.com/safernandez666/ControlsDockerized/blob/main/webserver/controls/screenshots/login.png)
 
 _Insede the folder_
 

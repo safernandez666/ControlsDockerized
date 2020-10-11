@@ -25,7 +25,7 @@ $group = 'Grupo_Controls';
 ```
 _Windows AD Config_
 
-![github-small](/webserver/controls/screenshots/ldap.png)
+<img src="/webserver/controls/screenshots/ldap.png" width="300" >
 
 _Inside the folder_
 

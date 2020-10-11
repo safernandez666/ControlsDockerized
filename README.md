@@ -15,7 +15,7 @@ _Clon the Proyect_
 ```
 https://github.com/safernandez666/ControlsDockerized.git
 ```
-_Configure the LDAP Server in login.php_
+_Configure the LDAP Server in login.php & add the Group to the AD User_
 
 ```
 $host = '192.168.0.190';

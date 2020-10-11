@@ -23,6 +23,10 @@ $domain = 'ironbox.local';
 $basedn = 'dc=ironbox,dc=local';
 $group = 'Grupo_Controls';
 ```
+_Windows AD Config_
+
+![](/webserver/controls/screenshots/ldap.png)
+
 _Inside the folder_
 
 ```

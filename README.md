@@ -2,7 +2,7 @@
 
 This project is on my **Github**. The only thing that changes is that I have Dockerized it.
 
-## Start 🚀 
+## Getting Started 🚀 
 
 ### Requirements 📋
 
@@ -47,4 +47,8 @@ Now you can enjoy the Application on http://localhost.
 
 <img src="webserver/controls/screenshots/Revision.png" width="600" >
 
-If you want to set emails, you can configure /envios/enviar.py and croned in the Dockerfile
+If you want to set emails, you can configure /envios/enviar.py and croned in the Dockerfile.
+
+##Disclaimer##
+
+I am not a developer, this MVP was made a long time ago. Know how to excuse that code & harcoding. 🤪

@@ -39,7 +39,12 @@ Then to find out if the containers are running, you can run this command and you
 docker-compose ps
 
 ```
+<img src="webserver/controls/screenshots/docker-compose.png" width="600" >
 
 Now you can enjoy the Application on http://localhost.
+
+<img src="webserver/controls/screenshots/ListaControles.png" width="600" >
+
+<img src="webserver/controls/screenshots/Revision.png" width="600" >
 
 If you want to set emails, you can configure /envios/enviar.py and croned in the Dockerfile

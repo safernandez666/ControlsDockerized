@@ -25,7 +25,7 @@ $group = 'Grupo_Controls';
 ```
 _Windows AD Config_
 
-![](/webserver/controls/screenshots/ldap.png)
+![github-small](/webserver/controls/screenshots/ldap.png)
 
 _Inside the folder_
 
@@ -37,13 +37,6 @@ Then to find out if the containers are running, you can run this command and you
 
 ```
 docker-compose ps
-
-
-   Name                 Command               State                 Ports
----------------------------------------------------------------------------------------
-mysql        docker-entrypoint.sh --def ...   Up      0.0.0.0:3306->3306/tcp, 33060/tcp
-phpmyadmin   /docker-entrypoint.sh apac ...   Up      0.0.0.0:8080->80/tcp
-webserver    apache2ctl -D FOREGROUND         Up      0.0.0.0:80->80/tcp
 
 ```
 
